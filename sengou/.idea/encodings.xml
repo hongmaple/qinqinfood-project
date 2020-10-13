@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-auth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-auth/sengou-auth-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-auth/sengou-auth-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-auth/sengou-auth-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-auth/sengou-auth-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-cart/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-goods-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-goods-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-item/sengou-item-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-item/sengou-item-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-item/sengou-item-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-item/sengou-item-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-registry" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-registry/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-search/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-sms-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-sms-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-upload" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-upload/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-user/sengou-user-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-user/sengou-user-interface/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-user/sengou-user-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sengou-user/sengou-user-service/src/main/java" charset="UTF-8" />
+  </component>
+</project>

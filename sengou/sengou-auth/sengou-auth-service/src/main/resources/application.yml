@@ -1,0 +1,21 @@
+server:
+  port: 8087
+spring:
+  application:
+    name: auth-service
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:10086/eureka
+    registry-fetch-interval-seconds: 10 #表示eureka client间隔多久去拉取服务注册信息，至少为30秒，对于api网关，如果要迅速获取服务注册状态，可以缩小该值，大约5秒
+  instance:
+    lease-renewal-interval-in-seconds: 5 # 每隔5秒发送一次心跳
+    lease-expiration-duration-in-seconds: 10 # 10秒不发送就过期
+sengou:
+  jwt:
+    secret: sengou@Login(Auth}*^31)&heiMa% # 登录校验的密钥
+    pubKeyPath: D:\gitWarehouse\sengouproject\rsa\\rsa.pub # 公钥地址
+    priKeyPath: D:\gitWarehouse\sengouproject\rsa\\rsa.pri # 私钥地址
+    expire: 60 # 过期时间,单位分钟
+    cookieName: SG_TOKEN # cookieName
+    cookieMaxAge: 3600 #cookie生效的最大秒数

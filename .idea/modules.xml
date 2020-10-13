@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou.iml" filepath="$PROJECT_DIR$/sengou/sengou.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-auth/sengou-auth.iml" filepath="$PROJECT_DIR$/sengou/sengou-auth/sengou-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-auth/sengou-auth-common/sengou-auth-common.iml" filepath="$PROJECT_DIR$/sengou/sengou-auth/sengou-auth-common/sengou-auth-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-auth/sengou-auth-service/sengou-auth-service.iml" filepath="$PROJECT_DIR$/sengou/sengou-auth/sengou-auth-service/sengou-auth-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-cart/sengou-cart.iml" filepath="$PROJECT_DIR$/sengou/sengou-cart/sengou-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-common/sengou-common.iml" filepath="$PROJECT_DIR$/sengou/sengou-common/sengou-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-gateway/sengou-gateway.iml" filepath="$PROJECT_DIR$/sengou/sengou-gateway/sengou-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-goods-web/sengou-goods-web.iml" filepath="$PROJECT_DIR$/sengou/sengou-goods-web/sengou-goods-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item.iml" filepath="$PROJECT_DIR$/sengou/sengou-item/sengou-item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/sengou-item-interface.iml" filepath="$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/sengou-item-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/sengou-item-service.iml" filepath="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/sengou-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-registry/sengou-registry.iml" filepath="$PROJECT_DIR$/sengou/sengou-registry/sengou-registry.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-search/sengou-search.iml" filepath="$PROJECT_DIR$/sengou/sengou-search/sengou-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-upload/sengou-upload.iml" filepath="$PROJECT_DIR$/sengou/sengou-upload/sengou-upload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-user/sengou-user.iml" filepath="$PROJECT_DIR$/sengou/sengou-user/sengou-user.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-user/sengou-user-interface/sengou-user-interface.iml" filepath="$PROJECT_DIR$/sengou/sengou-user/sengou-user-interface/sengou-user-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-user/sengou-user-service/sengou-user-service.iml" filepath="$PROJECT_DIR$/sengou/sengou-user/sengou-user-service/sengou-user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/sengouproject.iml" filepath="$PROJECT_DIR$/.idea/sengouproject.iml" />
+    </modules>
+  </component>
+</project>

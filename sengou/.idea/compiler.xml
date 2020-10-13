@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sengou-goods-web" />
+        <module name="sengou-sms-service" />
+        <module name="sengou-item-interface" />
+        <module name="sengou-user-interface" />
+        <module name="sengou-item-service" />
+        <module name="sengou-cart" />
+        <module name="sengou-auth-common" />
+        <module name="sengou-gateway" />
+        <module name="sengou-auth-service" />
+        <module name="sengou-common" />
+        <module name="sengou-user-service" />
+        <module name="sengou-upload" />
+        <module name="sengou-registry" />
+        <module name="sengou-search" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="leyouuser-interface" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="sengou-auth-common" options="-parameters" />
+      <module name="sengou-auth-service" options="-parameters" />
+      <module name="sengou-cart" options="-parameters" />
+      <module name="sengou-common" options="-parameters" />
+      <module name="sengou-gateway" options="-parameters" />
+      <module name="sengou-goods-web" options="-parameters" />
+      <module name="sengou-item-interface" options="-parameters" />
+      <module name="sengou-item-service" options="-parameters" />
+      <module name="sengou-registry" options="-parameters" />
+      <module name="sengou-search" options="-parameters" />
+      <module name="sengou-sms-service" options="-parameters" />
+      <module name="sengou-upload" options="-parameters" />
+      <module name="sengou-user-interface" options="-parameters" />
+      <module name="sengou-user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

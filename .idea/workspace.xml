@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e325a033-d65f-4ed6-a642-b3a6715ecfb9" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-user/sengou-user-interface/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-auth/sengou-auth-common/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-auth/sengou-auth-service/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-search/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-auth/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-upload/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-sms-service/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-item/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-user/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-common/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-registry/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-goods-web/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-user/sengou-user-service/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-gateway/target/" />
+    <ignored path="$PROJECT_DIR$/sengou/sengou-cart/target/" />
+    <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="sengouproject" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="BrandService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/service/BrandService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/controller/BrandController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="82" column="52" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GoodsController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sengou/sengou-goods-web/src/main/java/com/sengou/goods/controller/GoodsController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sengou/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sengou/sengou-gateway/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="125">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="7" column="50" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sengou/sengou-gateway/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandClient.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/client/BrandClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="6" column="36" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/service/SearchService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2888">
+              <caret line="170" column="54" selection-start-line="170" selection-start-column="54" selection-end-line="170" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BrandApi.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/api/BrandApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>下一步</find>
+      <find>el-icon-delete</find>
+      <find>spec</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/sengou-portal/cart.html" />
+        <option value="$PROJECT_DIR$/sengou/sengou-upload/src/main/java/com/sengou/upload/config/LeyouCorsConfiguration.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-upload/src/main/java/com/sengou/upload/config/SegouCorsConfiguration.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-upload/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou-manage-web/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-upload/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-upload/src/main/java/com/sengou/upload/config/SegouFileConfiguration.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-upload/src/main/java/com/sengou/upload/controller/UploadController.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-upload/src/main/java/com/sengou/upload/service/UploadService.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-goods-web/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-goods-web/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-user/sengou-user-service/src/main/java/com/sengou/user/controller/UserController.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-user/sengou-user-service/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-user/sengou-user-service/src/main/java/com/sengou/user/service/UserService.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-user/sengou-user-service/src/test/java/com/sengou/user/test/RedisTest.java" />
+        <option value="$PROJECT_DIR$/sengou-portal/register.html" />
+        <option value="$PROJECT_DIR$/sengou/sengou-user/sengou-user-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-auth/sengou-auth-common/src/test/java/com/sengou/auth/test/JwtTest.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-auth/sengou-auth-service/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/service/SpecificationService.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/controller/SpecificationController.java" />
+        <option value="$PROJECT_DIR$/sengou-manage-web/src/pages/item/specification/SpecParam.vue" />
+        <option value="$PROJECT_DIR$/sengou-manage-web/src/http.js" />
+        <option value="$PROJECT_DIR$/sengou-manage-web/src/pages/item/Goods.vue" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/service/GoodsService.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/pojo/Goods.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-search/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-search/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-cart/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/api/GoodsApi.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/mapper/CategoryBrandMapper.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/api/CategoryBrandController.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/client/CategoryBrandClient.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/service/SearchService.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/controller/CategoryBrandController.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/api/CategoryBrandApi.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/pojo/CategoryBrand.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/service/CategoryBrandService.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/api/BrandApi.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/controller/BrandController.java" />
+        <option value="$PROJECT_DIR$/sengou/sengou-goods-web/src/main/java/com/sengou/goods/controller/GoodsController.java" />
+        <option value="$PROJECT_DIR$/sengou/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-gateway/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Users\Maple\.m2\repository" />
+        <option name="userSettingsFile" value="D:\Users\Maple\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="sengou" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/sengou-manage-web/node_modules" />
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/sengou-manage-web/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="129" />
+    <option name="y" value="9" />
+    <option name="width" value="1536" />
+    <option name="height" value="1008" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-gateway" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-gateway" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-goods-web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="goods" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-goods-web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="goods" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-item" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-item" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-item-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-item" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-item" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-item" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-item-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-interface" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-user-service" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="sengouproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sengouproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sengou-portal" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="D:/ItProjects/H3框架项目/sengouproject/sengou" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.SengouGatewayApplication">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="JwtTest.testRsa" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="sengou-auth-common" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sengou.auth.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.sengou.auth.test" />
+      <option name="MAIN_CLASS_NAME" value="com.sengou.auth.test.JwtTest" />
+      <option name="METHOD_NAME" value="testRsa" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="LeyouCartApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sengou-cart" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sengou.cart.LeyouCartApplication" />
+    </configuration>
+    <configuration name="SengouAuthApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sengou-auth-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sengou.auth.SengouAuthApplication" />
+    </configuration>
+    <configuration name="SengouGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sengou-gateway" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sengou.gateway.SengouGatewayApplication" />
+    </configuration>
+    <configuration name="SengouGoodsWebApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sengou-goods-web" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sengou.SengouGoodsWebApplication" />
+    </configuration>
+    <configuration name="SengouItemServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sengou-item-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sengou.SengouItemServiceApplication" />
+    </configuration>
+    <configuration name="SengouRegistryApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sengou-registry" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sengou.registry.SengouRegistryApplication" />
+    </configuration>
+    <configuration name="SengouSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sengou-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sengou.search.SengouSearchApplication" />
+    </configuration>
+    <configuration name="SengouUploadApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sengou-upload" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sengou.upload.SengouUploadApplication" />
+    </configuration>
+    <configuration name="SengouUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sengou-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sengou.user.SengouUserApplication" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SengouSearchApplication" />
+      <item itemvalue="Spring Boot.SengouUserApplication" />
+      <item itemvalue="Spring Boot.SengouItemServiceApplication" />
+      <item itemvalue="Spring Boot.SengouRegistryApplication" />
+      <item itemvalue="Spring Boot.LeyouCartApplication" />
+      <item itemvalue="Spring Boot.SengouGatewayApplication" />
+      <item itemvalue="Spring Boot.SengouGoodsWebApplication" />
+      <item itemvalue="Spring Boot.SengouUploadApplication" />
+      <item itemvalue="Spring Boot.SengouAuthApplication" />
+      <item itemvalue="JUnit.JwtTest.testRsa" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.JwtTest.testRsa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Maple\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e325a033-d65f-4ed6-a642-b3a6715ecfb9" name="Default" comment="" />
+      <created>1601518023548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601518023548</updated>
+      <workItem from="1601518041416" duration="4542000" />
+      <workItem from="1601522761558" duration="5723000" />
+      <workItem from="1601803690107" duration="14537000" />
+      <workItem from="1602044454870" duration="714000" />
+      <workItem from="1602045579215" duration="27761000" />
+      <workItem from="1602117820971" duration="7278000" />
+      <workItem from="1602421081025" duration="9741000" />
+      <workItem from="1602509474449" duration="2310000" />
+      <workItem from="1602597965197" duration="3586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="JwtTest_testRsa - 2020.10.04 at 22h 16m 34s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2020.10.04 at 22h 18m 47s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2020.10.04 at 22h 20m 26s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2020.10.04 at 22h 22m 17s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2020.10.04 at 22h 22m 38s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="JwtTest_testRsa - 2020.10.04 at 22h 26m 28s.xml">
+      <configuration name="JwtTest.testRsa" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="76192000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.15683104" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="JRebel Executor" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Tail" order="7" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.5123675" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.07597173" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="leetcode" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.45936397" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.46996465" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49720672" visible="true" weight="0.35408247" />
+      <window_info anchor="right" id="Bean Validation" order="3" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info id="JRebel" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" sideWeight="0.5027933" side_tool="true" weight="0.33306387" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="TypeScript" order="8" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info id="JRebel" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="bottom" id="TypeScript" order="17" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26501766" />
+      <window_info anchor="right" id="leetcode" order="4" side_tool="true" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" sideWeight="0.5027933" side_tool="true" weight="0.33306387" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286219" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.07597173" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="6" visible="true" weight="0.15683104" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="JRebel Executor" order="14" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49720672" visible="true" weight="0.3484236" />
+      <window_info anchor="bottom" id="JRebel Console" order="15" side_tool="true" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="8" side_tool="true" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Tail" order="16" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.14134276" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sengou/sengou-upload/src/main/java/com/sengou/upload/controller/UploadController.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/SengouItemServiceApplication.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sengou/sengou-user/sengou-user-service/src/main/java/com/sengou/user/controller/UserController.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/service/GoodsService.java</url>
+          <line>114</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="13" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sengou-manage-web/src/pages/item/specification/Specification.vue">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou-portal/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2868" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou-portal/home-index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7523" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou-portal/home-person-footmark.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-741" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou-portal/home-person-collect.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou-portal/item.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2223" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou-portal/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="1056" column="13" lean-forward="true" selection-start-line="1056" selection-start-column="13" selection-end-line="1056" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou-portal/home-setting-address-complete.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-search/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="931">
+          <caret line="49" column="21" selection-start-line="49" selection-start-column="21" selection-end-line="49" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/pojo/Goods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/pojo/Sku.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/bo/SpuBo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/pojo/Spu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-auth/sengou-auth-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="16" column="58" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-cart/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="58" selection-start-line="17" selection-start-column="58" selection-end-line="17" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-goods-web/src/main/java/com/sengou/goods/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="33" column="53" selection-start-line="33" selection-start-column="51" selection-end-line="33" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/api/CategoryApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" column="1" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/api/GoodsApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="60" column="40" selection-start-line="60" selection-start-column="40" selection-end-line="60" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/service/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3059">
+          <caret line="184" selection-start-line="184" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1900">
+          <caret line="113" column="63" selection-start-line="113" selection-start-column="63" selection-end-line="113" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-goods-web/src/main/java/com/sengou/goods/service/GoodsHtmlService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="48" column="38" selection-start-line="48" selection-start-column="36" selection-end-line="48" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-goods-web/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou-portal/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5586">
+          <caret line="483" column="18" selection-start-line="483" selection-start-column="12" selection-end-line="483" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/controller/SearchController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="27" column="55" selection-start-line="27" selection-start-column="55" selection-end-line="27" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/controller/CategoryController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/pojo/Category.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/mapper/BrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/client/CategoryBrandClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/api/CategoryBrandApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="47" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-search/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/mapper/CategoryBrandMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/pojo/CategoryBrand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Users/Maple/.m2/repository/tk/mybatis/mapper-core/1.0.2/mapper-core-1.0.2.jar!/tk/mybatis/mapper/entity/Example.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/controller/CategoryBrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Users/Maple/.m2/repository/org/springframework/spring-web/5.0.11.RELEASE/spring-web-5.0.11.RELEASE.jar!/org/springframework/web/method/support/InvocableHandlerMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="741">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/service/CategoryBrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/service/BrandService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="40" column="33" selection-start-line="40" selection-start-column="33" selection-end-line="40" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/service/SearchService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2888">
+          <caret line="170" column="54" selection-start-line="170" selection-start-column="54" selection-end-line="170" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-search/src/main/java/com/sengou/search/client/BrandClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="36" selection-start-line="6" selection-start-column="29" selection-end-line="6" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/src/main/java/com/sengou/item/api/BrandApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-sms-service/src/main/resources/application.yml" />
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-sms-service/src/main/java/com/sengou/sms/config/SmsProperties.java" />
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-sms-service/src/main/java/com/sengou/sms/listener/SmsListener.java" />
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-sms-service/src/main/java/com/sengou/sms/utils/SmsUtils.java" />
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/java/com/sengou/item/controller/BrandController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="82" column="52" selection-start-line="82" selection-start-column="52" selection-end-line="82" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-goods-web/src/main/java/com/sengou/goods/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="49" column="49" selection-start-line="49" selection-start-column="49" selection-end-line="49" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="19" column="36" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Users/Maple/.m2/repository/org/springframework/cloud/spring-cloud-netflix-zuul/2.0.2.RELEASE/spring-cloud-netflix-zuul-2.0.2.RELEASE.jar!/org/springframework/cloud/netflix/zuul/filters/ZuulProperties.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="234" column="16" selection-start-line="234" selection-start-column="16" selection-end-line="234" selection-end-column="16" />
+          <folding>
+            <element signature="e#7520#7521#0" expanded="true" />
+            <element signature="e#7576#7577#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-gateway/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="7" column="50" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArquillianSettingsConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>sengou-upload</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

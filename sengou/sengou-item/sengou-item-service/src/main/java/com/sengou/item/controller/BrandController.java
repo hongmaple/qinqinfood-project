@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @Controller
-@RequestMapping("brand")
+@RequestMapping("/brand")
 public class BrandController {
     @Autowired
     private BrandService brandService;
@@ -50,13 +50,13 @@ public class BrandController {
      * @return
      */
     @PostMapping
-    public ResponseEntity<Void> saveBrand(Brand brand, @RequestParam("cids") List<Long> cids){
+    public ResponseEntity<Void> saveBrand(Brand brand, @RequestParam  List<Long> cids){
         this.brandService.saveBrand(brand,cids);
         return ResponseEntity.status(HttpStatus.CREATED).build();
     }
 
     @PutMapping
-    public ResponseEntity<Void> updateBrand(Brand brand, @RequestParam("cids") List<Long> cids){
+    public ResponseEntity<Void> updateBrand(Brand brand, @RequestParam List<Long> cids){
         this.brandService.updateBrand(brand,cids);
         return ResponseEntity.status(HttpStatus.CREATED).build();
     }
@@ -76,7 +76,7 @@ public class BrandController {
         return ResponseEntity.ok(brands);
     }
 
-    @GetMapping("{id}")
+    @GetMapping("/{id}")
     public ResponseEntity<Brand> queryBrandById(@PathVariable("id") Long id){
         Brand brand = this.brandService.queryBrandById(id);
         if (brand == null){

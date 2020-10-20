@@ -19,7 +19,7 @@ import java.util.UUID;
 @Service
 public class UploadService {
 
-    private static final List<String> CONTENT_TYPES = Arrays.asList("image/jpeg", "image/gif","image/png","image/jpg","image/webg","image/jfif");
+    private static final List<String> CONTENT_TYPES = Arrays.asList("image/jpeg", "image/gif","image/png","image/jpg","image/webg","image/jfif","application/pdf");
     private static final Logger LOGGER = LoggerFactory.getLogger(UploadService.class);
 
     @Autowired

@@ -220,7 +220,7 @@
                                 <i class="command">已有2000人评价</i>
                             </div>
                             <div class="operate">
-                                <a href="success-cart.html" target="_blank" class="sui-btn btn-bordered btn-danger">加入购物车</a>
+                                <a href="javascript:void(0);" @click="addCart(index)" class="sui-btn btn-bordered btn-danger">加入购物车</a>
                                 <a href="javascript:void(0);" class="sui-btn btn-bordered">对比</a>
                                 <a href="javascript:void(0);" class="sui-btn btn-bordered">关注</a>
                             </div>
@@ -257,7 +257,7 @@
                         class="mx-auto"
                         color="white"
                         width="260px"
-                        v-show="totalPage <1"
+                        v-show="total ==0"
                 >
                     <v-card-text>
                         <p>抱歉，没有找到与“{{this.search.key}}”相关的商品</p>
@@ -475,6 +475,39 @@
             },
             removeFilter(k){
                 this.search.filter[k] = null;
+            },
+            addCart(i){
+                ly.verifyUser().then(res=>{
+                    // 已登录发送信息到后台，保存到redis中
+
+                }).catch(()=>{
+                    // 未登录保存在浏览器本地的localStorage中
+                    // 1、查询本地购物车
+                    let carts = ly.store.get("carts") || [];
+                    console.log(carts);
+                    let cart = carts.find(c=>c.skuId===this.goodsList[i].selected.id);
+                    // 2、判断是否存在
+                    if (cart) {
+                        // 3、存在更新数量
+                        cart.num += this.num;
+                    } else {
+                        // 4、不存在，新增
+                        console.log(this.goodsList[i]);
+                        cart = {
+                            skuId: this.goodsList[i].selected.id,
+                            title: this.goodsList[i].selected.title,
+                            price: this.goodsList[i].selected.price,
+                            image: this.goodsList[i].selected.image,
+                            num: 1,
+                            ownSpec: this.goodsList[i].specs
+                        }
+                        carts.push(cart);
+                    }
+                    // 把carts写回localstorage
+                    ly.store.set("carts", carts);
+                    // 跳转
+                    window.location.href = "http://www.leyou.com/cart.html";
+                });
             }
         },
         components:{

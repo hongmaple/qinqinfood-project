@@ -26,7 +26,7 @@ public class CategoryController {
      * @return
      */
     @GetMapping("list")
-    public ResponseEntity<List<Category>> queryCategoriesByPid(@RequestParam("pid") Long pid) {
+    public ResponseEntity<List<Category>> queryCategoriesByPid(@RequestParam Long pid) {
         if (pid == null || pid.longValue() < 0) {
             // 响应400，相当于ResponseEntity.status(HttpStatus.BAD_REQUEST).build();
             //new ResponseEntity<>.status(HttpStatus.BAD_REQUEST);
@@ -45,7 +45,7 @@ public class CategoryController {
      * @return
      */
     @GetMapping("bid/{bid}")
-    public ResponseEntity<List<Category>> queryByBrandId(@PathVariable("bid") Long bid){
+    public ResponseEntity<List<Category>> queryByBrandId(@PathVariable Long bid){
            List<Category> categories = this.categoryService.queryByBrandId(bid);
            if (categories==null || categories.size()<1){
                return new ResponseEntity<>(HttpStatus.NOT_FOUND);
@@ -54,7 +54,7 @@ public class CategoryController {
     }
 
     @GetMapping("names")
-    public ResponseEntity<List<String>> queryNamesByIds(@RequestParam("ids")List<Long> ids){
+    public ResponseEntity<List<String>> queryNamesByIds(@RequestParam List<Long> ids){
 
         List<String> names = this.categoryService.queryNamesByIds(ids);
         if (CollectionUtils.isEmpty(names)) {
@@ -69,7 +69,7 @@ public class CategoryController {
      * @return
      */
     @GetMapping("all/level")
-    public ResponseEntity<List<Category>> queryAllByCid3(@RequestParam("id") Long id){
+    public ResponseEntity<List<Category>> queryAllByCid3(@RequestParam Long id){
         List<Category> list = this.categoryService.queryAllByCid3(id);
         if (list == null || list.size() < 1) {
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);

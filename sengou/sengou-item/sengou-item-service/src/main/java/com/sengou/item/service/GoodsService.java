@@ -9,6 +9,7 @@ import com.sengou.item.pojo.Sku;
 import com.sengou.item.pojo.Spu;
 import com.sengou.item.pojo.SpuDetail;
 import com.sengou.item.pojo.Stock;
+import com.sengou.qihang.pagetmpl.manager.ResumeHtmlManager;
 import org.apache.commons.lang.StringUtils;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -45,6 +46,12 @@ public class GoodsService {
 
     @Autowired
     private StockMapper stockMapper;
+
+    private final ResumeHtmlManager resumeHtmlManager;
+
+    public GoodsService(ResumeHtmlManager resumeHtmlManager){
+        this.resumeHtmlManager = resumeHtmlManager;
+    }
 
     private Logger logger = LoggerFactory.getLogger(GoodsService.class);
 
@@ -131,8 +138,9 @@ public class GoodsService {
             sku.setSpuId(spuBo.getId());
             sku.setCreateTime(new Date());
             sku.setLastUpdateTime(sku.getCreateTime());
-            this.skuMapper.insertSelective(sku);
+            int skuid = this.skuMapper.insertSelective(sku);
 
+            resumeHtmlManager.toResumePageFile(Integer.toUnsignedLong(skuid));
             // 新增库存
             Stock stock = new Stock();
             stock.setSkuId(sku.getId());
@@ -183,6 +191,9 @@ public class GoodsService {
             record.setSpuId(spu.getId());
             this.skuMapper.delete(record);
 
+            for (int i = 0;i<ids.size();i++){
+                resumeHtmlManager.deleteHtml(ids.get(i));
+            }
         }
         // 新增sku和库存
         saveSkuAndStock(spu);

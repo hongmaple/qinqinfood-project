@@ -24,7 +24,7 @@ public class SpecificationController {
      * @return
      */
     @GetMapping("groups/{cid}")
-    public ResponseEntity<List<SpecGroup>> queryGroupsByCid(@PathVariable("cid")Long cid){
+    public ResponseEntity<List<SpecGroup>> queryGroupsByCid(@PathVariable Long cid){
         List<SpecGroup> groups = this.specificationService.queryGroupsByCid(cid);
         if (CollectionUtils.isEmpty(groups)){
             return ResponseEntity.notFound().build();
@@ -52,7 +52,7 @@ public class SpecificationController {
     }
 
     @GetMapping("{cid}")
-    public ResponseEntity<List<SpecGroup>> querySpecsByCid(@PathVariable("cid") Long cid){
+    public ResponseEntity<List<SpecGroup>> querySpecsByCid(@PathVariable Long cid){
         List<SpecGroup> list = this.specificationService.querySpecsByCid(cid);
         if(list == null || list.size() == 0){
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);

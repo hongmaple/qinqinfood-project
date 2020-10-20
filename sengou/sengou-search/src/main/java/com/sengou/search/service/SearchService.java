@@ -147,7 +147,7 @@ public class SearchService {
             // 返回默认结果集
             return null;
         }else {
-            PageResult<SpuBo> spuBoPageResult = this.goodsClient.querySpuByPage(request.getPage(), request.getSize(), true, request.getKey());
+            PageResult<SpuBo> spuBoPageResult = this.goodsClient.querySpuBoByPage(request.getKey(),true,request.getPage(), request.getSize()).getBody();
             spuBos = spuBoPageResult.getItems();
         }
         List<Brand> brands = new ArrayList<>();
@@ -168,7 +168,7 @@ public class SearchService {
         for (int i = 0; i<cids.size();i++){
             List<CategoryBrand> categoryBrands = this.categoryBrandClient.queryBrandIdByCid(cids.get(i));
             categoryBrands.forEach(categoryBrand -> {
-                brands.add(this.brandClient.queryBrandById(categoryBrand.getBrandId()));
+                //brands.add(this.brandClient.queryBrandById(categoryBrand.getBrandId()));
             });
         }
         List<Brand> brandList = brands.stream().distinct().collect(Collectors.toList());

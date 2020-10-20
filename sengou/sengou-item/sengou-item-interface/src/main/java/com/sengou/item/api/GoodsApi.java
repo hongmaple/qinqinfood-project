@@ -5,6 +5,7 @@ import com.sengou.item.bo.SpuBo;
 import com.sengou.item.pojo.Sku;
 import com.sengou.item.pojo.Spu;
 import com.sengou.item.pojo.SpuDetail;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestParam;
@@ -15,18 +16,19 @@ public interface GoodsApi {
 
     /**
      * 分页查询商品
+     * @param key
+     * @param saleable
      * @param page
      * @param rows
-     * @param saleable
-     * @param key
      * @return
      */
     @GetMapping("/spu/page")
-    PageResult<SpuBo> querySpuByPage(
-            @RequestParam(value = "page", defaultValue = "1") Integer page,
-            @RequestParam(value = "rows", defaultValue = "5") Integer rows,
-            @RequestParam(value = "saleable", defaultValue = "true") Boolean saleable,
-            @RequestParam(value = "key", required = false) String key);
+    ResponseEntity<PageResult<SpuBo>> querySpuBoByPage(
+            @RequestParam(value = "key", required = false)String key,
+            @RequestParam(value = "saleable", required = false)Boolean saleable,
+            @RequestParam(value = "page", defaultValue = "1")Integer page,
+            @RequestParam(value = "rows", defaultValue = "5")Integer rows
+    );
 
     /**
      * 根据spu商品id查询详情
@@ -41,7 +43,7 @@ public interface GoodsApi {
      * @param spuId
      * @return
      */
-    @GetMapping("sku/list")
+    @GetMapping("/sku/list")
     List<Sku> querySkusBySpuId(@RequestParam("id") Long spuId);
 
     /**
@@ -49,7 +51,7 @@ public interface GoodsApi {
      * @param id
      * @return
      */
-    @GetMapping("spu/{id}")
+    @GetMapping("/spu/{id}")
     Spu querySpuById(@PathVariable("id") Long id);
 
     /**
@@ -57,6 +59,6 @@ public interface GoodsApi {
      * @param id
      * @return
      */
-    @GetMapping("sku/{id}")
+    @GetMapping("/sku/{id}")
     Sku querySkuById(@PathVariable("id") Long id);
 }

@@ -57,7 +57,7 @@ public class GoodsController {
     }
 
     @GetMapping("spu/detail/{spuId}")
-    public ResponseEntity<SpuDetail> querySpuDetailBySpuId(@PathVariable("spuId")Long spuId){
+    public ResponseEntity<SpuDetail> querySpuDetailBySpuId(@PathVariable Long spuId){
         SpuDetail spuDetail = this.goodsService.querySpuDetailBySpuId(spuId);
         if (spuDetail == null) {
             return ResponseEntity.notFound().build();
@@ -111,7 +111,7 @@ public class GoodsController {
     }
 
     @GetMapping("spu/{id}")
-    public ResponseEntity<Spu> querySpuById(@PathVariable("id") Long id){
+    public ResponseEntity<Spu> querySpuById(@PathVariable Long id){
         Spu spu = this.goodsService.querySpuById(id);
         if(spu == null){
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);
@@ -120,7 +120,7 @@ public class GoodsController {
     }
 
     @GetMapping("sku/{id}")
-    public ResponseEntity<Sku> querySkuById(@PathVariable("id") Long id){
+    public ResponseEntity<Sku> querySkuById(@PathVariable Long id){
         Sku sku = this.goodsService.querySkuById(id);
         if(sku == null){
             return new ResponseEntity<>(HttpStatus.NOT_FOUND);

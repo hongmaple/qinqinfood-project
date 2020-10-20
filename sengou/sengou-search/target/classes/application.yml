@@ -12,3 +12,18 @@ eureka:
   instance:
     lease-renewal-interval-in-seconds: 5 # 每隔5秒发送一次心跳
     lease-expiration-duration-in-seconds: 10 # 10秒不发送就过期
+feign:
+  client:
+    config:
+      file-service:
+        logger-level: FULL
+      default:
+        connectTimeout: 5000
+        readTimeout: 5000
+  compression:
+    request:
+      enabled: true
+      mime-types: text/xml, application/xml
+      min-request-size: 2048
+    response:
+      enabled: true

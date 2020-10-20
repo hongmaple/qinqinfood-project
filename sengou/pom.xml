@@ -15,7 +15,6 @@
         <module>sengou-common</module>
         <module>sengou-upload</module>
         <module>sengou-search</module>
-        <module>sengou-goods-web</module>
         <module>sengou-user</module>
         <module>sengou-auth</module>
         <module>sengou-cart</module>

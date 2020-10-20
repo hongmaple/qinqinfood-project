@@ -19,7 +19,7 @@ public class CategoryBrandController {
     private CategoryBrandService categoryBrandService;
 
     @GetMapping("/list/{cid}")
-    public ResponseEntity<List<CategoryBrand>> queryBrandIdByCid(@PathVariable("cid") Long cid) {
+    public ResponseEntity<List<CategoryBrand>> queryBrandIdByCid(@PathVariable Long cid) {
             return ResponseEntity.ok(categoryBrandService.queryBrandIdByCid(cid));
     }
 }

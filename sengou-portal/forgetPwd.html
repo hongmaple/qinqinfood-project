@@ -87,15 +87,6 @@
                     <span style="color: red;">{{ errors.first('confirmPass') }}</span>
                 </div>
                 <div class="control-group">
-                    <label class="control-label">短信验证码：</label>
-                    <div class="controls">
-                        <input type="text" placeholder="短信验证码" class="input-xfat input-xlarge" style="width: 120px;"
-                               v-model="user.code" name="code" v-validate="'required'" data-vv-as="验证码">
-                        <input type="button" value="获取短信验证码" class="code-span" @click="createVerifyCode">
-                    </div>
-                    <span style="color: red;">{{ errors.first('code') }}</span>
-                </div>
-                <div class="control-group">
                     <label class="control-label"></label>
                     <div class="controls btn-reg">
                         <a class="sui-btn btn-block btn-xlarge btn-danger" href="javascript:void(0)"
@@ -197,20 +188,6 @@
             },
             xiayibu1(){
                 this.vshow=2;
-            },
-            createVerifyCode() {// 生成短信验证码
-                this.$validator.validate("phone").then(r => {
-                    if (r) {
-                        leyou.http.post("/user/send", "phone=" + this.user.phone).then(resp => {
-                            if (resp.status === 20) {
-                                alert("发送成功")
-                            }
-                        }).then(() => {
-                            alert("发送失败")
-                        });
-                    }
-                });
-
             },
             submit() {
                 this.$validator.validateAll().then(d => {

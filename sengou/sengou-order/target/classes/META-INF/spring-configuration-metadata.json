@@ -1,0 +1,146 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "name": "alipay",
+      "type": "com.leyou.order.config.AlipayProperties"
+    },
+    {
+      "sourceType": "com.leyou.order.config.JwtProperties",
+      "name": "leyou.jwt",
+      "type": "com.leyou.order.config.JwtProperties"
+    },
+    {
+      "sourceType": "com.leyou.order.config.PayProperties",
+      "name": "leyou.pay",
+      "type": "com.leyou.order.config.PayProperties"
+    },
+    {
+      "sourceType": "com.leyou.order.config.IdWorkerProperties",
+      "name": "leyou.worker",
+      "type": "com.leyou.order.config.IdWorkerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "defaultValue": "",
+      "name": "alipay.alipay-public-key",
+      "description": "支付宝公钥",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "defaultValue": "",
+      "name": "alipay.app-id",
+      "description": "应用ID,您的APPID，收款账号既是您的APPID对应支付宝账号",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "defaultValue": "utf-8",
+      "name": "alipay.charset",
+      "description": "字符编码格式",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "defaultValue": "https:\/\/openapi.alipay.com\/gateway.do",
+      "name": "alipay.gateway-url",
+      "description": "支付宝网关",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "defaultValue": "\/home\/cloudlandboy\/Project\/leyou\/aliPayLog",
+      "name": "alipay.log-path",
+      "description": "支付宝网关",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "defaultValue": "",
+      "name": "alipay.notify-url",
+      "description": "服务器异步通知页面路径  需http:\/\/格式的完整路径，不能加?id=123这类自定义参数，必须外网可以正常访问",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "defaultValue": "",
+      "name": "alipay.private-key",
+      "description": "商户私钥，您的PKCS8格式RSA2私钥",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "defaultValue": "",
+      "name": "alipay.return-url",
+      "description": "页面跳转同步通知页面路径 需http:\/\/格式的完整路径，不能加?id=123这类自定义参数，必须外网可以正常访问",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.AlipayProperties",
+      "defaultValue": "RSA2",
+      "name": "alipay.sign-type",
+      "description": "签名方式",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.JwtProperties",
+      "name": "leyou.jwt.cookie-name",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.JwtProperties",
+      "name": "leyou.jwt.pub-key-path",
+      "description": "公钥地址",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.JwtProperties",
+      "name": "leyou.jwt.public-key",
+      "description": "公钥",
+      "type": "java.security.PublicKey"
+    },
+    {
+      "sourceType": "com.leyou.order.config.PayProperties",
+      "name": "leyou.pay.app-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.PayProperties",
+      "defaultValue": 0,
+      "name": "leyou.pay.connect-timeout-ms",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.leyou.order.config.PayProperties",
+      "name": "leyou.pay.key",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.PayProperties",
+      "name": "leyou.pay.mch-id",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.leyou.order.config.PayProperties",
+      "defaultValue": 0,
+      "name": "leyou.pay.read-timeout-ms",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.leyou.order.config.IdWorkerProperties",
+      "defaultValue": 0,
+      "name": "leyou.worker.datacenter-id",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.leyou.order.config.IdWorkerProperties",
+      "defaultValue": 0,
+      "name": "leyou.worker.worker-id",
+      "type": "java.lang.Long"
+    }
+  ]
+}

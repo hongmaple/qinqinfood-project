@@ -9,10 +9,13 @@
       <module fileurl="file://$PROJECT_DIR$/sengou/sengou-cart/sengou-cart.iml" filepath="$PROJECT_DIR$/sengou/sengou-cart/sengou-cart.iml" />
       <module fileurl="file://$PROJECT_DIR$/sengou/sengou-common/sengou-common.iml" filepath="$PROJECT_DIR$/sengou/sengou-common/sengou-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/sengou/sengou-gateway/sengou-gateway.iml" filepath="$PROJECT_DIR$/sengou/sengou-gateway/sengou-gateway.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-goods-web/sengou-goods-web.iml" filepath="$PROJECT_DIR$/sengou/sengou-goods-web/sengou-goods-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item.iml" filepath="$PROJECT_DIR$/sengou/sengou-item/sengou-item.iml" />
       <module fileurl="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/sengou-item-interface.iml" filepath="$PROJECT_DIR$/sengou/sengou-item/sengou-item-interface/sengou-item-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/sengou-item-service.iml" filepath="$PROJECT_DIR$/sengou/sengou-item/sengou-item-service/sengou-item-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-order/sengou-order.iml" filepath="$PROJECT_DIR$/sengou/sengou-order/sengou-order.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-page-template/sengou-page-template.iml" filepath="$PROJECT_DIR$/sengou/sengou-page-template/sengou-page-template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-page-template/sengou-pagetmpl-app/sengou-pagetmpl-app.iml" filepath="$PROJECT_DIR$/sengou/sengou-page-template/sengou-pagetmpl-app/sengou-pagetmpl-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sengou/sengou-page-template/sengou-pagetmpl-interface/sengou-pagetmpl-interface.iml" filepath="$PROJECT_DIR$/sengou/sengou-page-template/sengou-pagetmpl-interface/sengou-pagetmpl-interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/sengou/sengou-registry/sengou-registry.iml" filepath="$PROJECT_DIR$/sengou/sengou-registry/sengou-registry.iml" />
       <module fileurl="file://$PROJECT_DIR$/sengou/sengou-search/sengou-search.iml" filepath="$PROJECT_DIR$/sengou/sengou-search/sengou-search.iml" />
       <module fileurl="file://$PROJECT_DIR$/sengou/sengou-upload/sengou-upload.iml" filepath="$PROJECT_DIR$/sengou/sengou-upload/sengou-upload.iml" />

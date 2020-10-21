@@ -16,10 +16,18 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/sengou/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-goods-web/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/qihang-page-template/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/leyou-order/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-page-template/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-order/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/sengou/sengou-goods-web/goods-web-app/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-goods-web/goods-web-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/sengou/sengou-goods-web/pom.xml" />
         <option value="$PROJECT_DIR$/sengou/sengou-sms-service/pom.xml" />
       </set>
     </option>

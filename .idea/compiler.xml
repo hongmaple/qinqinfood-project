@@ -11,9 +11,11 @@
         <module name="sengou-cart" />
         <module name="sengou-common" />
         <module name="sengou-gateway" />
-        <module name="sengou-goods-web" />
         <module name="sengou-item-interface" />
         <module name="sengou-item-service" />
+        <module name="sengou-order" />
+        <module name="sengou-pagetmpl-app" />
+        <module name="sengou-pagetmpl-interface" />
         <module name="sengou-registry" />
         <module name="sengou-search" />
         <module name="sengou-upload" />
@@ -22,6 +24,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="goods-web-app" target="1.8" />
+      <module name="goods-web-interface" target="1.8" />
       <module name="sengou" target="1.8" />
       <module name="sengou-auth" target="1.8" />
       <module name="sengou-auth-common" target="1.8" />
@@ -33,6 +37,10 @@
       <module name="sengou-item" target="1.8" />
       <module name="sengou-item-interface" target="1.8" />
       <module name="sengou-item-service" target="1.8" />
+      <module name="sengou-order" target="1.8" />
+      <module name="sengou-page-template" target="1.8" />
+      <module name="sengou-pagetmpl-app" target="1.8" />
+      <module name="sengou-pagetmpl-interface" target="1.8" />
       <module name="sengou-registry" target="1.8" />
       <module name="sengou-search" target="1.8" />
       <module name="sengou-sms-service" target="1.8" />

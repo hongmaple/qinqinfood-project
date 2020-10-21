@@ -5,7 +5,7 @@ spring:
     name: user-service
   datasource:
         driver-class-name: com.mysql.jdbc.Driver
-        url: jdbc:mysql://localhost:3306/heima?useUnicode=true&characterEncoding=utf8
+        url: jdbc:mysql://localhost:3306/windsorfood?useUnicode=true&characterEncoding=utf8
         username: root
         password: root
   rabbitmq:

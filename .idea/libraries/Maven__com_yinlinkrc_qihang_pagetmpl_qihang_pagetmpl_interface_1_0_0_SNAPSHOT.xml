@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="Maven: com.yinlinkrc.qihang.pagetmpl:qihang-pagetmpl-interface:1.0.0-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://D:/Users/Maple/.m2/repository/com/yinlinkrc/qihang/pagetmpl/qihang-pagetmpl-interface/1.0.0-SNAPSHOT/qihang-pagetmpl-interface-1.0.0-20201015.115620-14.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/sengou/qihang-page-template/qihang-pagetmpl-interface/qihang-pagetmpl-interface-1.0.0-SNAPSHOT-javadoc.jar!/" />
+      <root url="jar://D:/Users/Maple/.m2/repository/com/yinlinkrc/qihang/pagetmpl/qihang-pagetmpl-interface/1.0.0-SNAPSHOT/qihang-pagetmpl-interface-1.0.0-20201015.115620-14-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/sengou/qihang-page-template/qihang-pagetmpl-interface/qihang-pagetmpl-interface-1.0.0-SNAPSHOT-sources.jar!/" />
+      <root url="jar://D:/Users/Maple/.m2/repository/com/yinlinkrc/qihang/pagetmpl/qihang-pagetmpl-interface/1.0.0-SNAPSHOT/qihang-pagetmpl-interface-1.0.0-20201015.115620-14-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
